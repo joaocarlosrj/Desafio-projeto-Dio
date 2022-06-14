@@ -1,0 +1,18 @@
+Lista de Tags e Flags Git/GitHub
+
+mkdir - cria diretorio 
+ls - lista o que tem dentro do diretorio
+cd - entra na pasta 
+cd .. - volta uma pasta 
+dir - ver diretorio 
+cmd - abre diretorio
+del/rmdir - apaga diretorio (segue flag "rmdir /s /g")
+echo - printa na tela o que for escrito 
+cls - limpa a tela (não funcionou usei ctrl + L)
+git add - adiciona arquivo ao reposiorio na maquina
+git clone -  clona o repositorio virtual para a maquina 
+git commit -m comita o repositorio na maquina para o repositorio virtual 
+git status - mostra o status do arquivo a aberto
+ 
+sha1 - codigo de chave criptografada para estabelecer conexão entre a maquina e repositorio virtual
+  
